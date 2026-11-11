@@ -1,0 +1,839 @@
+# Dr. Bijaya Bikram Samal
+
+> Dr. Bijaya Bikram Samal is the first person in India to start research on 4D printing (2016). His paper "Controlled Shape Changing Components by Using 4D Printing Technology", presented at COPEN 10, IIT Madras, in 2017, is recorded as the first research in India on 4D printing. He holds a Ph.D. in four-dimensional printing from IIT Kharagpur (2024), is an Institute Postdoctoral Fellow at IIT Kanpur, and is lead editor of the Wiley book "4D Printing Technology: Principles, Materials and Applications" (2025).
+
+Key facts:
+- Name: Dr. Bijaya Bikram Samal (also B. B. Samal, Bijay Bikram Samal)
+- Known for: starting 4D printing research in India in 2016; first Indian research paper on 4D printing (COPEN 10, IIT Madras, 2017)
+- Position: Institute Postdoctoral Fellow, Smart Materials, Structures and Systems (SMSS) Lab, Department of Mechanical Engineering, IIT Kanpur
+- Education: Ph.D. (Four-Dimensional Printing), IIT Kharagpur, 2024; M.Tech (University Gold Medal), VSSUT Burla, 2018; B.Tech, BPUT (BIET Bhadrak), 2015
+- Research: 4D printing, shape memory polymers, additive manufacturing, bioinspired Bouligand-auxetic metamaterials, Cargo Hyperloop
+- Book: 4D Printing Technology: Principles, Materials and Applications, Wiley-Scrivener, 2025, ISBN 9781394212583, DOI 10.1002/9781394213795
+- Media: Manufactur3D (2018), "Indian researchers develop the world's strongest 4D-printed parts"
+- Contact: bbsamal@iitk.ac.in
+- ORCID: https://orcid.org/0000-0001-5217-7041
+- Google Scholar: https://scholar.google.co.in/citations?user=H_s5WZUAAAAJ
+
+## Main pages
+- [Home](https://www.drbijay.com/): profile, quick facts, research, statistics
+- [4D Printing in India: who started it](https://www.drbijay.com/4d-printing-india.html): history of 4D printing research in India since 2016, with sources
+- [What is 4D printing?](https://www.drbijay.com/what-is-4d-printing.html): plain-language guide to 4D printing, materials, programming and applications
+- [About](https://www.drbijay.com/about.html): biography, journey, education, mentors
+- [Publications](https://www.drbijay.com/publications.html): journal articles with DOIs
+- [Books and chapters](https://www.drbijay.com/books.html)
+- [Conferences](https://www.drbijay.com/conferences.html)
+- [Research metrics](https://www.drbijay.com/metrics.html): citations and h-index
+
+## Optional
+- [Full text for language models](https://www.drbijay.com/llms-full.txt)
+- [Research areas](https://www.drbijay.com/research.html)
+- [Technologies and patents](https://www.drbijay.com/patents.html)
+- [Honors and awards](https://www.drbijay.com/honors.html)
+- [News](https://www.drbijay.com/news.html)
+
+
+
+
+==== https://www.drbijay.com/ ====
+At the Cargo Hyperloop test track, IIT Kanpur
+3D printing in the Direct Digital Manufacturing Lab, IIT Kharagpur
+Presenting 4D Printing Technology at Kyushu Institute of Technology, Japan
+FEMS EUROMAT 2023, Frankfurt, Germany
+4D printing research since 2016
+Dr. Bijaya Bikram Samal
+Institute Postdoctoral Fellow at IIT Kanpur, working on 4D printing, smart materials and metamaterials since 2016.
+4D printing in India Publications
+Latest
+Teaching Tutor for TA111 at IIT Kanpur Fellowship JST Sakura Science Fellowship for a research visit to Kyushu Institute of Technology, Japan Paper Paper in Thin-Walled Structures (Q1, IF 6.6) Paper Paper in Sensors and Actuators A (Q1, IF 5.1) Patent Two Indian patents filed: Cargo Hyperloop & Bouligand-auxetic metamaterial Paper Paper in Nanotechnology Reviews (Q1, IF 6.1) Workshop RAMEA 2026 : 3D/4D printing workshop at NERIST, Arunachal Pradesh Accepted Chapter accepted in Elsevier's Handbook of 4D Printing of Shape Memory Polymers Event Symposium organizer, MSE 2026 , TU Darmstadt, Germany Paper Paper in National Academy Science Letters : sustainable 3D printing of PHA Appointment Now Institute Postdoctoral Fellow , IIT Kanpur Book Lead editor: 4D Printing Technology (Wiley, 2025)
+All news
+Dr. Bijaya Bikram Samal
+4D Printing Institute Postdoctoral Fellow IIT Kanpur Wiley Book Editor
+Dr. Bijaya Bikram Samal is an Institute Postdoctoral Fellow in the Smart Materials, Structures & Systems Lab, Department of Mechanical Engineering, IIT Kanpur , where he works with Prof. Bishakh Bhattacharya. He is interested in materials that change their shape over time, known as 4D printing , and in the structures and machines that can be built from them.
+He began working on 4D printing in 2016 as an M.Tech student at VSSUT Burla. His 2017 paper at COPEN 10, IIT Madras, is recorded as the first research on 4D printing in India . He went on to complete a Ph.D. on four-dimensional printing at IIT Kharagpur under Prof. C. S. Kumar and Prof. S. K. Varshney, and to edit the Wiley book 4D Printing Technology with them. At IIT Kanpur he works on bioinspired Bouligand-auxetic metamaterials and the Cargo Hyperloop project, and enjoys teaching and mentoring students along the way.
+2016 4D printing research, first in India
+31 Publications
+153 Citations
+8 h-index
+Explore research About Dr. Samal
+Technical Expertise
+Additive manufacturing FDM/FFF, direct ink writing, LPBF (EOS M290), SLA/DLP, PolyJet, two-photon polymerization
+4D printing & shape programming Thermo-mechanical programming of shape memory polymers and nature-inspired structures
+Material characterization SEM, XRD, FTIR, DSC, TGA, DMTA, AFM, nanoindentation
+Design & simulation SolidWorks, Fusion 360, COMSOL Multiphysics, ANSYS Mechanical
+Statistics & optimization Design-Expert, Minitab, OriginPro
+Industry training, Germany EOS GmbH (laser powder bed fusion) and Nanoscribe GmbH (two-photon lithography)
+Quick Facts
+Who started 4D printing research in India?
+Dr. Bijaya Bikram Samal, in 2016, at VSSUT Burla. His paper "Controlled Shape Changing Components by Using 4D Printing Technology" (COPEN 10, IIT Madras, 2017) is recorded as the first research in India on 4D printing.
+Current position
+Institute Postdoctoral Fellow, Smart Materials, Structures & Systems Lab, Department of Mechanical Engineering, IIT Kanpur.
+Ph.D.
+Four-Dimensional Printing: Shape Programming, Material Characterization and Parametric Optimization, IIT Kharagpur (2024).
+Book
+Lead editor, 4D Printing Technology: Principles, Materials and Applications (Wiley-Scrivener, 2025).
+Research areas
+4D printing, shape memory polymers, additive manufacturing, bioinspired metamaterials, Cargo Hyperloop.
+New to 4D printing?
+Read What is 4D printing? , a plain-language guide.
+Research Journey
+The work has grown one step at a time: a low-cost FDM printer built as a B.Tech project in 2015, shape-changing parts in 2016, a Ph.D. on 4D printing at IIT Kharagpur, a Wiley book with his mentors, and now metamaterials and transport systems at IIT Kanpur, always with the guidance of mentors and the help of many collaborators and students.
+Since 2016
+4D Printing Research
+Shape programming, material characterization and parametric optimization of 4D-printed shape memory polymers, from honeycombs to bioinspired metamaterials.
+Explore research
+TRL 4 · Patents
+Technology & Innovation
+Four working prototypes, including a Cargo Hyperloop demonstrator and a 4D-printed steganography device, plus two filed Indian patents.
+Explore innovation
+Teaching · Editing
+Teaching & Editorial Work
+Tutoring at IIT Kanpur, mentoring students, editing 4D Printing Technology and the Wiley series Advances in Additive Manufacturing , and reviewing for 14+ journals.
+Explore books
+Research & Development
+Funded projects and laboratory programmes at IIT Kanpur and IIT Kharagpur, spanning smart materials, structures and systems.
+4D-Printed Smart Structures
+Thermo-mechanical programming of shape memory polymers
+Infill, bed temperature and build orientation effects on shape memory
+Honeycomb and negative-honeycomb shape-changing structures
+Low-cost shape-memory characterization system (TRL 4)
+Bioinspired Metamaterials
+4D-printed Bouligand-auxetic metamaterials (patent filed)
+Wave isolation in 3D-printed shells and metasurfaces
+Orientation-dependent multifunctional performance
+4D-printed mechanical steganography device, with the Indian Army
+Cargo Hyperloop (CMPDI, Ministry of Coal)
+Team leader for a high-speed, air-driven cargo hyperloop
+Fully functional 1:20-scale demonstrator (TRL 4)
+Materials selection, manufacturing and testing
+Indian patent filed on the rail-wheel propulsion system
+Sustainable & Multi-material AM
+3D printing of biodegradable PHA and PHB
+Biochemical methane potential testing of printed parts
+Multi-material direct ink writing printer with in-situ mixing (TRL 4)
+Laser polishing of LPBF cobalt-chrome parts
+Institutions & Affiliations
+IITK IIT Kanpur Institute Postdoctoral Fellow
+IIT KGP IIT Kharagpur Ph.D., 4D Printing
+VSSUT VSSUT Burla M.Tech, Gold Medal
+BPUT BPUT · BIET Bhadrak B.Tech, Mechanical
+WILEY Wiley-Scrivener Series & Lead Editor
+JST JST Japan Sakura Science Fellow
+BSS Bose Science Society Fellow
+IEI Institution of Engineers Chartered Engineer
+IOP Institute of Physics Trusted Reviewer
+ISTE ISTE Life Member
+CMPDI CMPDI, Ministry of Coal Cargo Hyperloop
+Area of Expertise
+Additive Manufacturing
+Fused filament fabrication (FDM/FFF)
+Direct ink writing of soft materials
+Laser powder bed fusion (EOS M290)
+SLA/DLP, PolyJet, two-photon polymerization
+4D Printing
+Shape memory polymer programming
+Shape fixity and recovery testing
+Nature-inspired self-shaping structures
+4D micro printing
+Smart Materials
+Shape memory polymers and alloys (NiTi)
+Functional hydrogels for soft actuators
+Biodegradable PHA / PHB
+CNT-coated foams for EMI shielding
+Metamaterials & Structures
+Bouligand-auxetic architectures
+Wave isolation and metasurfaces
+Auxetic and re-entrant honeycombs
+Mechanical steganography
+Characterization
+SEM, XRD, FTIR
+DSC, TGA, DMTA
+AFM and nanoindentation
+Custom shape-memory test rigs
+Design, Simulation & Optimization
+SolidWorks, Fusion 360
+COMSOL Multiphysics, ANSYS
+Design of experiments (Design-Expert, Minitab)
+Parametric optimization, OriginPro
+Research
+Dr. Samal's research covers 4D printing, shape memory polymers, bioinspired metamaterials, sustainable polymers and laser post-processing of metal additive manufacturing. His work appears in journals such as Smart Materials and Structures , Science of the Total Environment , Thin-Walled Structures and Sensors and Actuators A , and in books from Wiley, Elsevier and CRC Press .
+He has presented at international conferences in Germany, the USA, the Netherlands and South Korea , including a Highlight Lecture at MSE 2024, Darmstadt. He mentors two Ph.D. scholars and has guided six research interns and two B.Tech projects.
+All publications Research metrics
+31 Publications
+10 Journal articles
+12 Books & chapters
+8 Conference papers
+2 Patents filed
+4 Technologies (TRL 4)
+Published in
+Elsevier S&A A
+Sensors and Actuators A: Physical
+Elsevier TWS
+Thin-Walled Structures
+Elsevier STOTEN
+Science of the Total Environment
+IOP SMS
+Smart Materials and Structures
+De Gruyter NTREV
+Nanotechnology Reviews
+Springer IJAMT
+Int. J. of Advanced Manufacturing Technology
+Springer JMST
+J. of Mechanical Science and Technology
+Springer NASL
+National Academy Science Letters
+Elsevier MTP
+Materials Today: Proceedings
+International Collaboration & Engagements
+Research visits, conference leadership and talks across Asia, Europe and North America.
+Kyushu Institute of Technology JST Sakura Science research visit (2026) Japan
+MSE Congress, Darmstadt Organizer (2026); symposium organizer & Highlight Lecture (2024) Germany
+FEMS EUROMAT 2023, Frankfurt Two presentations on 4D printing and biodegradable AM Germany
+4D Materials Design & AM Conference Talks in 2022 and 2023 (Atlanta) USA
+4D Printing & Metamaterials Conference Invited talk on controlled shape-changing components (2022) Netherlands
+KSME Annual Meeting, Songdo International session paper (2023) South Korea
+Gyeongsang National University & CMR Institute Best Research Paper Award, FRESM (2021) South Korea · India
+EOS GmbH & Nanoscribe GmbH Hands-on training in LPBF and two-photon polymerization Germany
+Wiley-Scrivener Series editor, Advances in Additive Manufacturing USA
+CMPDI, Ministry of Coal Funding partner, Cargo Hyperloop project India
+IIT Madras · COPEN 10 India's first 4D printing paper (2017) India
+NIT Trichy · SASTRA · SIT Tumakuru · NERIST Invited lectures, workshops and FDPs India
+JP Japan DE Germany US USA NL Netherlands KR South Korea IN India
+Honors & Awards
+Sakura Science Exchange Program Fellowship Japan Science and Technology Agency (JST), 2026
+Fellow, Bose Science Society Affiliated with Vigyan Prasar, DST, Government of India, 2024
+Chartered Engineer (C.Eng) Institution of Engineers (India), 2023
+IOP Trusted Reviewer Institute of Physics Publishing, 2023
+University Gold Medal, M.Tech Veer Surendra Sai University of Technology, Burla, 2018
+Chief Minister Award & Startup Grant Startup India Odisha Yatra; incubation grant by IIT Bhubaneswar, 2018
+View all honors
+JST Sakura Science visit · Kyushu Institute of Technology, Japan (2026)
+Latest News
+Teaching
+Nov 2026 1 min read
+Tutor for TA111 at IIT Kanpur
+Taking tutorials for the TA111 course this semester at IIT Kanpur, after serving as tutor for Engineering Graphics (TA-101) earlier in 2026.
+Read more
+Fellowship
+Early 2026 1 min read
+JST Sakura Science Exchange Fellowship, Japan
+Research visit to Prof. Hiroaki Wagatsuma's lab at Kyushu Institute of Technology on multimodal human–machine interaction (neural signals, eye tracking, motion capture), plus 4D printing discussions with Prof. Fujio Tsumori, Kyushu University.
+Read more
+Paper
+2026 2 min read
+Wave isolation in shells and metasurfaces (Thin-Walled Structures, Q1)
+Peridynamics modelling and experiments on wave isolation in 3D-printed shells and mechanical metasurfaces, published in Thin-Walled Structures (IF 6.6).
+Read more
+Paper
+2026 2 min read
+Nitinol SMA actuators with bead-on-fiber coating (Sensors & Actuators A, Q1)
+Thermal-plume and thermo-mechanical characteristics of coated Nitinol shape memory alloy actuators, published in Sensors and Actuators A: Physical.
+Read more
+Patent
+2026 1 min read
+Two Indian patents filed
+Filed: a compressed-air propelled Cargo Hyperloop system with rail-wheel configuration (202611001298) and an additively manufactured Bouligand-auxetic metamaterial (202611014037).
+Read more
+Paper
+2026 2 min read
+MWCNT-coated nickel foam for EMI shielding (Nanotechnology Reviews, Q1)
+Lightweight nickel foam coated with multi-walled carbon nanotubes for electromagnetic interference shielding, with multiphysics evaluation.
+Read more
+Workshop
+4–5 Apr 2026 1 min read
+3D/4D printing workshop at RAMEA 2026, NERIST
+Speaker at the two-day RAMEA 2026 pre-conference workshop "3D/4D Printing: From Fundamentals to Functional Structures & Innovation Pathways" at NERIST, Arunachal Pradesh, with speakers from IIT Kanpur, IIT Bombay and IIT Guwahati.
+Read more
+Accepted
+2026 1 min read
+Chapter accepted in Elsevier's Handbook of 4D Printing
+"4D Printing of Shape Memory Polymers by Material Extrusion" accepted for the Elsevier Handbook of 4D Printing of Shape Memory Polymers.
+Read more
+View all news
+Books & Chapters
+Lead Editor · 2025
+4D Printing Technology: Principles, Materials and Application
+Wiley, 2025 · ISBN 978-1394212583
+Co-Editor · Accepted
+Wiley-Scrivener 4D Printing of Shape Memory Alloys Advances in Fabrication, Characterization and Multidisciplinary Applications Gaikwad · Pradhan · Samal (Eds.)
+4D Printing of Shape Memory Alloys
+Wiley, accepted
+Book Chapters
+Wiley · Elsevier · CRC 10 Book Chapters 4D printing, smart materials, laser AM and Industry 4.0 8 as corresponding author
+Chapters with Wiley, Elsevier & CRC Press
+2021 – 2026
+View all
+Statistics
+Counts from the CV (October 2026). Citation numbers refresh automatically from Google Scholar and OpenAlex.
+2016 4D printing research begins (first in India)
+10+ Years in additive manufacturing
+31 Publications
+10 Journal articles
+12 Books & chapters
+8 International conference papers
+5 Invited talks & workshops
+50+ Peer reviews
+2 Patents filed
+4 Technologies at TRL 4
+9 Awards & honours
+10 Students mentored
+Citation metrics by database
+Metric Google Scholar Scopus OpenAlex · live
+Citations 153 106 –
+h-index 8 6 –
+i10-index 6 – –
+Auto-updating Scholar as of 9 Nov 2026 · Details
+Watch & Read
+Talks, features and the paper that started 4D printing research in India.
+“
+Indian researchers develop the world's strongest 4D-printed parts. Manufactur3D's 2018 feature on the 4D-printed components made by Samal, Jena and Mishra at VSSUT Burla.
+Manufactur3D Magazine International magazine · 2018
+“
+Controlled Shape Changing Components by Using 4D Printing Technology. The COPEN 10 paper recorded as the first research in India on 4D printing.
+COPEN 10, IIT Madras Conference proceedings · 2017
+“
+Controlled shape changing components using 4D printing. Invited talk at the 4D Printing and Metamaterials Conference.
+Watch on YouTube Netherlands · 22 Feb 2022
+“
+4D printing: Fundamentals and Applications. Lecture at the 9th Annual National Conference, ATRUM, SASTRA Deemed University.
+Watch on YouTube Tamil Nadu · 1 May 2022
+“
+4D printing of shape memory polymer via extrusion AM: process parameters and optimization. 4D Materials Design and Additive Manufacturing Conference.
+Watch on YouTube Atlanta, USA · 2023
+“
+4D printing: comparing programming strategies for FDM/FFF processed SMP. 4D Materials Design and Additive Manufacturing Conference.
+Watch on YouTube 2022
+
+
+==== https://www.drbijay.com/4d-printing-india.html ====
+4D Printing in India
+How 4D printing research began in India in 2016, and who started it.
+2016 4D printing research begins in India
+2017 India's first 4D printing paper (COPEN 10, IIT Madras)
+2018 "World's strongest 4D-printed parts" (Manufactur3D)
+2025 Wiley book: 4D Printing Technology
+Dr. Bijaya Bikram Samal started 4D printing research in India in 2016. His paper "Controlled Shape Changing Components by Using 4D Printing Technology", presented at the 10th International Conference on Precision, Meso, Micro and Nano Engineering (COPEN 10) at IIT Madras in 2017, is recorded as the first research in India on 4D printing.
+What is 4D printing?
+4D printing is 3D printing of smart materials that change shape over time . A part is printed from a stimulus-responsive material, usually a shape memory polymer, then "programmed" by heating, deforming and cooling it. Later, when the part meets a trigger such as heat, water or light, it moves into a new shape on its own. Time is the fourth dimension.
+Because the shape change is built into the material, 4D printing can make self-folding structures, grippers and actuators without motors, deployable medical devices and adaptive metamaterials.
+How 4D printing research started in India
+In 2016 , as an M.Tech student in Manufacturing Systems Engineering at Veer Surendra Sai University of Technology (VSSUT), Burla , Bijaya Bikram Samal began printing shape memory polymers on fused deposition modelling (FDM) printers and programming them to change shape in a controlled way. A year earlier, as a B.Tech student, he had built an FDM 3D printer from scratch.
+In 2017 he presented this work with A. Jena and D. Mishra at COPEN 10, IIT Madras : Controlled Shape Changing Components by Using 4D Printing Technology . It is recorded as the first research in India on 4D printing .
+In 2018 , the international magazine Manufactur3D reported that Indian researchers had developed the world's strongest 4D-printed parts . The same year his M.Tech thesis, Controlled Shape Changing Components using 4D Printing , earned the University Gold Medal.
+A Ph.D. dedicated to 4D printing
+From 2018 he pursued a Ph.D. on the subject at IIT Kharagpur with an MHRD Doctoral Fellowship. His thesis, Four-Dimensional Printing: Shape Programming, Material Characterization, and Parametric Optimization , was awarded on 30 December 2024. Papers from this work appear in Smart Materials and Structures , the Journal of Mechanical Science and Technology and Materials Today: Proceedings , and he presented it in Germany, the USA, South Korea and the Netherlands.
+A book on 4D printing
+In 2025 Wiley-Scrivener published 4D Printing Technology: Principles, Materials and Application , with Dr. Samal as lead editor and author of six chapters, from the history of 3D-to-4D printing to characterization techniques and photonics applications.
+4D printing research today
+At IIT Kanpur , Dr. Samal now works on 4D-printed bioinspired Bouligand-auxetic metamaterials , multi-material direct ink writing, and a 4D-printed mechanical steganography device developed in consultation with the Indian Army. He also teaches 3D/4D printing workshops across India, from NIT Tiruchirappalli to NERIST in Arunachal Pradesh.
+4D printing publications Talks & workshops
+Dr. Bijaya Bikram Samal · IIT Kanpur
+Quick facts
+Started 2016, VSSUT Burla
+First paper in India COPEN 10, IIT Madras, 2017
+Ph.D. Four-Dimensional Printing, IIT Kharagpur
+Book 4D Printing Technology, Wiley 2025
+Now Institute Postdoctoral Fellow, IIT Kanpur
+In the lab
+Frequently Asked Questions
+Who started 4D printing research in India?
+Dr. Bijaya Bikram Samal started 4D printing research in India in 2016, as an M.Tech student at Veer Surendra Sai University of Technology, Burla. His paper "Controlled Shape Changing Components by Using 4D Printing Technology", presented at COPEN 10, IIT Madras, in 2017, is recorded as the first research in India on 4D printing.
+What is 4D printing?
+4D printing is 3D printing of smart materials, such as shape memory polymers, that are programmed to change shape, stiffness or function over time when exposed to a stimulus like heat, water or light. Time is the fourth dimension.
+Where is 4D printing research done in India?
+Dr. Samal's 4D printing work began at VSSUT Burla (2016–2018), continued through his Ph.D. on four-dimensional printing at IIT Kharagpur (awarded 2024), and now continues at IIT Kanpur, where he works on 4D-printed bioinspired Bouligand-auxetic metamaterials.
+Is there a book on 4D printing by an Indian author?
+Yes. Dr. Bijaya Bikram Samal is the lead editor of "4D Printing Technology: Principles, Materials and Application" (Wiley-Scrivener, 2025), part of the Advances in Additive Manufacturing series.
+What are the applications of 4D printing?
+Applications include self-folding and deployable structures, soft robotic actuators, biomedical devices, photonics, smart textiles, and adaptive metamaterials that absorb impact or isolate vibration.
+
+
+==== https://www.drbijay.com/what-is-4d-printing.html ====
+What is 4D Printing?
+A plain-language guide by Dr. Bijaya Bikram Samal, who has worked on 4D printing since 2016.
+3D + time A printed part that changes shape later
+SMPs Shape memory polymers are the most common material
+Stimulus Heat, water, light, magnetic or electric field
+2016 4D printing research begins in India
+4D printing is the 3D printing of stimulus-responsive ("smart") materials so that the printed object changes its shape, properties or function over time when it is exposed to a stimulus such as heat, water, light, a magnetic field or an electric field. The fourth dimension is time.
+4D printing in one minute
+In ordinary 3D printing, a part keeps the shape it was printed in. In 4D printing, the part is designed to move after printing: a flat sheet folds itself into a box, a lattice shrinks to absorb an impact, a gripper closes when it is warmed. The motion is not driven by motors. It is stored in the material and in the way the part was printed and programmed.
+How does 4D printing work?
+Every 4D-printed part needs three things:
+A smart material that responds to a stimulus, for example a shape memory polymer (SMP), a shape memory alloy such as nickel–titanium (NiTi), a hydrogel or a liquid crystal elastomer.
+A design that turns the material's response into a useful motion, such as a hinge, a bilayer, an auxetic lattice or a gradient of layers.
+A stimulus that triggers the change: hot water or air, moisture, UV or visible light, a magnetic field or an electric current.
+For shape memory polymers, the part is usually programmed after printing. It is heated above its transition temperature, deformed into a temporary shape, and cooled so that the shape is fixed. When it is heated again, it returns to the printed shape. How well it does this is measured by the shape fixity ratio and the shape recovery ratio .
+Programming strategies
+The same printed part can behave very differently depending on how it is programmed. Dr. Samal's work compares programming above and below the glass transition temperature (hot and cold programming) and shows how the choice changes recovery, stiffness and the material's internal structure ( Smart Materials and Structures, 2023 ). His later work shows that infill density, bed temperature and build orientation in fused deposition modelling (FDM) also change the shape memory behaviour ( J. Mech. Sci. Technol., 2024 ).
+Which 3D printing processes are used?
+Fused deposition modelling (FDM / FFF): low-cost printing of thermoplastic SMPs such as PLA and TPU. Printing itself can pre-strain the material.
+Direct ink writing (DIW): extrusion of hydrogels, elastomers and composite inks, often with several materials.
+Vat photopolymerisation (SLA, DLP) and PolyJet: fine features and multi-material parts.
+Two-photon polymerisation: micro- and nanoscale 4D printing.
+Laser powder bed fusion (LPBF) and directed energy deposition: shape memory alloys such as NiTi.
+Applications of 4D printing
+Self-folding and deployable structures for space, packaging and architecture
+Soft robotic grippers and actuators that need no motors
+Biomedical devices such as stents, scaffolds and implants that change shape in the body
+Mechanical metamaterials that absorb impact or isolate vibration, including auxetic and bioinspired Bouligand designs
+Photonics, sensors and smart textiles
+Security devices: Dr. Samal's lab has built a 4D-printed mechanical steganography device that hides and reveals information
+4D printing vs 3D printing
+3D printing 4D printing
+Shape after printing Fixed Changes over time
+Materials Any printable material Stimulus-responsive (smart) materials
+Extra step Post-processing Programming and a trigger
+Typical use Prototypes, tooling, end-use parts Actuators, deployable and adaptive structures
+A short history
+The term "4D printing" was introduced by Skylar Tibbits at MIT in 2013. Research then grew quickly worldwide. In India , 4D printing research began in 2016 , when Bijaya Bikram Samal started work on controlled shape-changing components at VSSUT Burla. His 2017 paper at COPEN 10, IIT Madras, is recorded as the first research on 4D printing in India. Read the full history of 4D printing in India .
+Further reading
+For a full treatment, see 4D Printing Technology: Principles, Materials and Applications (Wiley-Scrivener, 2025), edited by B. B. Samal, C. S. Kumar and S. K. Varshney, and the list of 4D printing publications .
+Key terms
+Shape memory polymer (SMP) A polymer that remembers its printed shape and returns to it when heated
+Glass transition temperature (T g ) The temperature above which an SMP becomes soft and can be reshaped
+Shape fixity / recovery ratio How well a temporary shape is held, and how fully the original shape returns
+Metamaterial A structure whose properties come from its geometry, such as a lattice that shrinks sideways when compressed
+4D Printing FAQ
+What is 4D printing in simple words?
+4D printing is 3D printing with smart materials, so the printed object can change its shape or properties later on its own when it is heated, wetted, lit or exposed to a magnetic or electric field. Time is the fourth dimension.
+What materials are used in 4D printing?
+The most common are shape memory polymers (for example PLA- and polyurethane-based materials), shape memory alloys such as NiTi, hydrogels, liquid crystal elastomers, and composites with magnetic or conductive fillers.
+Who started 4D printing research in India?
+Dr. Bijaya Bikram Samal started 4D printing research in India in 2016. His paper "Controlled Shape Changing Components by Using 4D Printing Technology", presented at COPEN 10, IIT Madras, in 2017, is recorded as the first research in India on 4D printing.
+What is the difference between 3D printing and 4D printing?
+A 3D-printed part keeps the shape it was printed in. A 4D-printed part is made from a stimulus-responsive material and is designed to change its shape, stiffness or function over time.
+Is there a textbook on 4D printing?
+Yes. 4D Printing Technology: Principles, Materials and Applications (Wiley-Scrivener, 2025), edited by Bijaya Bikram Samal, Cheruvu Siva Kumar and Shailendra Kumar Varshney, covers principles, materials, characterization and applications.
+
+
+==== https://www.drbijay.com/about.html ====
+About Dr. Samal
+From building a 3D printer as a B.Tech student to starting 4D printing research in India.
+Dr. Bijaya Bikram Samal
+Dr. Samal grew up in Bhadrak, Odisha, and studied mechanical engineering at BIET Bhadrak, where he led the team that built a low-cost FDM 3D printer as their final-year project. That project grew into a question he has followed ever since: what if a printed part could change its shape on its own?
+He started working on 4D printing in 2016 during his M.Tech at VSSUT Burla, and his 2017 COPEN 10 paper at IIT Madras is recorded as the first research on 4D printing in India. After a Ph.D. on the subject at IIT Kharagpur, he joined IIT Kanpur , where he is now an Institute Postdoctoral Fellow in Prof. Bishakh Bhattacharya's Smart Materials, Structures & Systems Lab, working on bioinspired metamaterials and as Team Leader of the Cargo Hyperloop project.
+He is grateful to his teachers, mentors, colleagues, students and family, whose support made each step possible.
+4D printing in India Contact
+The Journey
+A decade in additive manufacturing, told in milestones.
+2015 Built a 3D printer from scratch
+B.Tech in Mechanical Engineering (BPUT, BIET Bhadrak). Led the design, assembly and testing of a low-cost FDM 3D printer as his capstone project.
+2016 Started 4D printing research in India
+As an M.Tech student at VSSUT Burla, began programming 3D-printed shape memory polymers into shape-changing components.
+2017 First paper on 4D printing in India
+"Controlled Shape Changing Components by Using 4D Printing Technology", COPEN 10, IIT Madras.
+2018 University Gold Medal
+M.Tech with CGPA 9.88. The 4D-printed parts were featured by Manufactur3D, and the work received the Chief Minister Award & Startup Grant.
+2018–23 Ph.D. at IIT Kharagpur
+MHRD Doctoral Fellowship for a Ph.D. dedicated to four-dimensional printing; Best Research Paper Award (FRESM, 2021).
+2023 On the international stage
+Talks in Frankfurt, Atlanta and Songdo; Chartered Engineer (India); IOP Trusted Reviewer.
+2024 Ph.D. awarded · Highlight Lecture
+Ph.D. conferred on 30 Dec 2024. Highlight Lecture and symposium organizer at MSE 2024, Darmstadt. Fellow, Bose Science Society.
+2025 Wiley book and IIT Kanpur
+Lead editor of 4D Printing Technology (Wiley). Joined IIT Kanpur; Team Leader, Cargo Hyperloop; Institute Postdoctoral Fellow from November.
+2026 Fellowship, patents and teaching
+JST Sakura Science Fellowship (Japan), two Indian patents filed, four Q1-level papers, and tutor for TA-101 and TA111 at IIT Kanpur.
+Education
+Ph.D. · 2024
+Four-Dimensional Printing
+Indian Institute of Technology Kharagpur. Thesis: Four-Dimensional Printing: Shape Programming, Material Characterization, and Parametric Optimization . Awarded 30 December 2024.
+M.Tech · 2018 · Gold Medal
+Manufacturing Systems Engineering
+Veer Surendra Sai University of Technology, Burla. Thesis: Controlled Shape Changing Components using 4D Printing . CGPA 9.88 / 10.
+B.Tech · 2015
+Mechanical Engineering
+Biju Patnaik University of Technology (Bhadrak Institute of Engineering & Technology). Thesis: Assembling and testing of a fused deposition modeling 3D printer . CGPA 8.26 / 10.
+Appointments & Leadership
+Academic Appointments · IIT Kanpur
+Institute Postdoctoral Fellow (Nov 2025 – present): 4D-printed bioinspired Bouligand-auxetic metamaterials and multi-material freeform AM
+Project Postdoctoral Fellow (Mar – Nov 2025): Team Leader, Cargo Hyperloop project (CMPDI, Ministry of Coal)
+Principal Project Associate (Oct 2024 – Feb 2025): wave isolation in 3D-printed meta-structured shells
+Leadership Roles
+Team Leader, Cargo Hyperloop (2025 – present): roadmap, milestones, budgeting and sponsor liaison for an air-driven cargo hyperloop
+Book Series Editor , Advances in Additive Manufacturing (Wiley-Scrivener), 2022 – present
+Development Secretary , Marichi Hostel, VSSUT Burla (2017–18)
+Project Leader , B.Tech capstone: low-cost FDM 3D printer (2014–15)
+Mentors
+With gratitude to the teachers who guided the work.
+Postdoctoral mentor · IIT Kanpur
+Prof. Bishakh Bhattacharya
+Smart Materials, Structures & Systems Lab, Department of Mechanical Engineering
+Ph.D. supervisor · IIT Kharagpur
+Prof. C. S. Kumar
+Department of Mechanical Engineering
+Ph.D. supervisor · IIT Kharagpur
+Prof. S. K. Varshney
+Department of Electronics & Electrical Communication Engineering
+Research Profiles
+Google Scholar Citations, h-index, i10 iD ORCID 0000-0001-5217-7041 Sc Scopus Author ID 57310668700 W Web of Science ResearcherID ABF-0191-2022 RG ResearchGate Papers & full texts in LinkedIn Professional profile X X (Twitter) @bijaybikrmsamal f Facebook dr.bijayabikramsamal IITK IIT Kanpur SMSS Lab profile
+
+
+==== https://www.drbijay.com/research.html ====
+Research Areas
+Smart materials that move, structures that adapt, and the machines that make them.
+Research Interests
+Research at the Smart Materials, Structures & Systems Lab, IIT Kanpur , building on a decade of work in additive manufacturing that began with India's first 4D printing research in 2016 .
+Core
+4D printing of shape memory polymers
+Programming strategies, infill and temperature effects, build orientation, and shape fixity and recovery of FDM-printed SMPs.
+Papers
+Current
+Bioinspired metamaterials
+4D-printed Bouligand-auxetic metastructures with orientation-dependent stiffness, energy absorption and wave isolation.
+Patent
+Process
+Multi-material additive manufacturing
+Freeform and direct ink writing of soft materials and biomaterials with in-situ mixing, heating and cooling.
+Technology
+Applications
+Soft robotic actuators & hydrogels
+Functional hydrogels and SMA/SMP actuators, including Nitinol actuators with bead-on-fiber coatings.
+Papers
+Metals
+Laser post-processing of metal AM
+Laser polishing and surface modification of laser powder bed fusion parts, such as cobalt-chrome alloys.
+Papers
+Sustainability
+Biodegradable polymers for AM
+Printability, dimensional accuracy and anaerobic biodegradability of PHA and PHB filaments and printed parts.
+Papers
+Funded Projects
+2025 – present · Team Leader
+Cargo Hyperloop
+Nationally funded by CMPDI, Ministry of Coal. Leads a multidisciplinary team designing a high-speed, air-driven cargo hyperloop; built a fully functional 1:20-scale demonstrator and filed an Indian patent on the rail-wheel propulsion system.
+2025 – present · IIT Kanpur
+4D-printed Bouligand-auxetic metamaterials
+Bioinspired, additively manufactured metastructures with orientation-dependent multifunctional performance. Indian patent filed (202611014037).
+2024 – 2025 · IIT Kanpur
+Wave isolation in meta-structured shells
+Experimental work on 3D-printed shells and mechanical metasurfaces, with peridynamics modelling, published in Thin-Walled Structures (2026).
+With the Indian Army
+4D-printed mechanical steganography
+An encryption–decryption device that hides information in a 4D-printed structure and reveals it on stimulus; laboratory prototype at TRL 4.
+2018 – 2024 · IIT Kharagpur
+Ph.D. research on 4D printing
+Shape programming, material characterization and parametric optimization of 4D-printed SMPs, supported by the MHRD Doctoral Fellowship.
+2016 – 2018 · VSSUT Burla
+Controlled shape-changing components
+The M.Tech project that started 4D printing research in India, presented at COPEN 10, IIT Madras (2017).
+Research in Numbers
+31 Publications
+2 Patents filed
+4 Technologies at TRL 4
+2 Ph.D. scholars mentored
+
+
+==== https://www.drbijay.com/publications.html ====
+International Publications
+Journal articles in Elsevier, Springer, IOP and De Gruyter journals, with DOIs.
+31 Publications in total
+10 Journal articles
+6 Q1 journal articles
+153 Citations (Google Scholar)
+Journal Articles
+* corresponding author. Dr. Samal's name is underlined.
+All 2026 2025 2024 2023 2021
+Elsevier S&A A 2026
+R. Kumar, B. K. Mishra, P. K. Panigrahi, B. B. Samal , A. Dwivedi, B. Bhattacharya
+Thermal-Plume and Thermo-Mechanical Characteristics of Nitinol SMA Actuators with Bead-on-Fiber Coating
+Sensors and Actuators A: Physical , Elsevier, Vol. 412, 118654
+Q1 IF 5.1 SCIE
+DOI
+Elsevier TWS 2026
+N. Choudhary, T. Gupta, A. Dwivedi, B. B. Samal , P. Roy, R. Bhartiya, B. Bhattacharya
+Peridynamics modeling and experimental investigation of wave isolation in shells and mechanical metasurfaces
+Thin-Walled Structures , Elsevier, Vol. 225, Part B, 114850
+Q1 IF 6.6 SCI
+DOI
+De Gruyter NTREV 2026
+S. Medabalimi, P. Kumar, R. Cep, B. B. Samal , A. Kumar
+Lightweight Nickel Foam Coated with Multi-Walled Carbon Nanotubes for Enhanced Electromagnetic Interference Shielding: Experimental and Multiphysics Evaluation
+Nanotechnology Reviews , Walter de Gruyter, Vol. 15, No. 1, 20250310
+Q1 IF 6.1 SCI
+DOI
+Springer NASL 2026
+A. Jena, B. B. Samal* , C. S. Kumar, S. K. Varshney
+Sustainable 3D Printing of Polyhydroxyalkanoates: Material Characterization, Printability, and Parametric Optimization for Enhanced Dimensional Accuracy
+National Academy Science Letters , Springer Nature
+Q3 IF 1.1 Corresponding author
+DOI
+Elsevier STOTEN 2025
+A. Jena, A. P. Thomas, B. B. Samal* , B. K. Dubey, C. S. Kumar, S. K. Varshney
+Assessing the anaerobic biodegradability of PHB filament and its 3D printed sheets through biochemical methane potential (BMP) test
+Science of The Total Environment , Elsevier, Vol. 1008, 180962
+Q1 IF 8.0 Corresponding author
+DOI
+Springer JMST 2024
+B. B. Samal* , S. K. Varshney, C. S. Kumar
+Four-dimensional (4D) Printing through FDM: Effect of infill density and bed temperature on shape memory properties in different thermo-mechanical programming conditions
+Journal of Mechanical Science and Technology , Springer, Vol. 38, Issue 7, pp. 4313–4319
+Q2 IF 1.7 4D printing First author
+DOI
+Springer IJAMT 2024
+A. Kumar, R. Harikrishnan, B. B. Samal , C. S. Kumar, A. K. Nath
+Laser polishing of cobalt chrome alloy fabricated by laser powder bed fusion process: Design of experiment-based approach for reducing surface roughness
+International Journal of Advanced Manufacturing Technology , Springer, Vol. 134, pp. 1245–1264
+Q1 IF 3.3
+DOI
+Elsevier MTP 2024
+B. B. Samal* , A. Jena, S. K. Varshney, C. S. Kumar
+FDM 4D printing: A low-cost approach of shape programming and assessing the shape memory properties using angle measurement methods in hot water actuation testing apparatus
+Materials Today: Proceedings , Elsevier, Vol. 101, pp. 7–14
+Scopus 4D printing First author
+DOI
+IOP SMS 2023
+B. B. Samal* , A. Jena, S. K. Varshney, C. S. Kumar
+4D Printing of Shape Memory Polymers: A Comparative Study of Programming Methodologies on Various Material Properties
+Smart Materials and Structures , IOP Publishing, Vol. 32, No. 7, 074003
+Q1 IF 3.8 4D printing First author
+DOI
+Elsevier MTP 2021
+A. Jena, B. B. Samal , C. S. Kumar, S. K. Varshney
+Analysis of electro-thermo-mechanical behavior of thin film Ni50Ti50 and Ni40Ti50Cu10 shape memory alloys for application in thermal actuators
+Materials Today: Proceedings , Vol. 47, pp. 4578–4583
+Scopus
+DOI
+Preprints & Under Review
+SSRN SSRN 2026
+S. Sahana, B. B. Samal , A. Dwivedi, B. Bhattacharya
+Bioinspired Bouligand-Auxetic Metastructures with Orientation-Dependent Multifunctional Performance
+SSRN Preprint, 15 March 2026
+Preprint
+DOI
+IOP SMS 2026
+B. B. Samal* , A. Jena, S. K. Varshney, C. S. Kumar
+Optimization of shape memory thermal parameters in 4D printed parts: Effects of build orientation on mechanical and shape memory characteristics
+Smart Materials and Structures , IOP Publishing, Manuscript SMS-120068.R2 (minor revision submitted)
+Under review 4D printing
+Books & chapters Conference papers Google Scholar
+
+
+==== https://www.drbijay.com/books.html ====
+Books & Chapters
+Edited volumes and chapters on 4D printing, smart materials and additive manufacturing.
+Edited Books
+Lead Editor · Wiley-Scrivener · 2025
+4D Printing Technology: Principles, Materials and Application
+B. B. Samal*, C. S. Kumar, S. K. Varshney (Eds.). Series: Advances in Additive Manufacturing. ISBN-13 978-1394212583. Dr. Samal headed the editorial process and authored six chapters.
+View on Wiley Google Books
+Wiley-Scrivener 4D Printing of Shape Memory Alloys Gaikwad · Pradhan · Samal (Eds.)
+Co-Editor · Wiley · Accepted
+4D Printing of Shape Memory Alloys: Advances in Fabrication, Characterization and Multidisciplinary Applications
+M. U. Gaikwad, M. K. Pradhan, B. B. Samal (Eds.). Wiley-Scrivener.
+Book Chapters
+10 chapters, 8 as corresponding author. * corresponding author.
+All 2026 2025 2024 2023 2021
+Elsevier ELSEVIER 2026
+B. B. Samal* , A. Jena, S. K. Varshney, C. S. Kumar, B. Bhattacharya
+4D Printing of Shape Memory Polymers by Material Extrusion
+Handbook of 4D Printing of Shape Memory Polymers , Elsevier (accepted)
+Accepted
+Wiley WILEY 2025
+B. B. Samal* , A. Kumar, A. Jena, D. Mishra, S. K. Varshney, A. K. Nath, C. S. Kumar
+Importance of Additive Manufacturing in the era of Industry 4.0
+4D Printing Technology: Principles, Materials and Application , Wiley, pp. 1–27
+DOI
+Wiley WILEY 2025
+A. Kumar, B. B. Samal* , A. K. Nath, S. K. Varshney, C. S. Kumar
+Additive Manufacturing Processing and Techniques: Focusing on Laser Powder Bed Fusion (L-PBF) and Its Various Post Processing Technologies
+4D Printing Technology: Principles, Materials and Application , Wiley, pp. 29–67
+DOI
+Wiley WILEY 2025
+M. A. F. Aramayo, M. Rehan, B. B. Samal* , C. S. Kumar, S. K. Varshney
+The rise of Smart Materials: Recent developments
+4D Printing Technology: Principles, Materials and Application , Wiley, pp. 69–86
+DOI
+Wiley WILEY 2025
+B. B. Samal* , D. Mishra, M. Nafea, A. Jena, S. K. Varshney, C. S. Kumar
+From 3D printing to 4D printing: Adding time dimension
+4D Printing Technology: Principles, Materials and Application , Wiley, pp. 93–123
+DOI
+Wiley WILEY 2025
+B. B. Samal* , B. C. G. Marupalli, P. Talukdar, A. Jena, R. R. Korrayi, T. Adhikary, S. K. Varshney, C. S. Kumar
+Characterization techniques for 4D printed parts
+4D Printing Technology: Principles, Materials and Application , Wiley, pp. 245–279
+DOI
+Wiley WILEY 2025
+B. B. Samal* , M. Pradhan, S. Sharma, S. K. Varshney
+4D printing applications in Photonics
+4D Printing Technology: Principles, Materials and Application , Wiley, pp. 281–309
+DOI
+Wiley WILEY 2024
+R. R. Korrayi, A. Jena, B. C. G. Marupalli, B. B. Samal* , S. K. Varshney, C. S. Kumar
+Four-Dimensional (4D) Micro Printing: Materials, Processes, Challenges, and Applications
+Additive Manufacturing with Novel Materials: Process, Properties and Applications , Wiley, pp. 429–457
+DOI
+Elsevier ELSEVIER 2023
+B. B. Samal* , A. Jena, S. K. Varshney, C. S. Kumar
+4D printing: An experimental case study on processing of shape memory polymer by FDM/FFF for nature-inspired structures
+Advances in Additive Manufacturing: Artificial Intelligence, Nature-Inspired, and Biomanufacturing , Elsevier, pp. 361–377
+DOI
+CRC Press CRC 2021
+A. Kumar, B. B. Samal* , A. K. Nath, C. S. Kumar
+Laser surface modification of metal additive manufactured parts: A case study of ex-situ and in-situ methodology
+Surface Engineering , CRC Press, pp. 121–144
+DOI
+
+
+==== https://www.drbijay.com/conferences.html ====
+International Conferences
+Proceedings, presentations and a magazine feature, from IIT Madras to Darmstadt.
+Conference Papers & Presentations
+Including the first research in India on 4D printing (COPEN 10, 2017).
+All Proceedings Abstracts & talks Magazine
+2024 Germany
+B. B. Samal* , A. Jena, S. K. Varshney, C. S. Kumar
+4D printing technology: Experimental investigation of thermo-responsive shape-changing honeycomb and negative honeycomb structures for different proposed programming strategies
+Material Science and Engineering Congress (MSE 2024), Darmstadt, Germany
+Highlight Lecture Abstract
+2023 S. Korea
+B. B. Samal* , A. Jena, S. K. Varshney, C. S. Kumar
+4D printing technology: Experimental investigation of thermo-responsive shape-changing honeycomb and negative honeycomb structures for different proposed programming strategies
+KSME Annual Meeting 2023, International Session, Songdo, South Korea
+Proceedings
+Paper
+2023 Germany
+B. B. Samal* , A. Jena, S. K. Varshney, C. S. Kumar
+4D printing by fused filament fabrication of shape memory polymer: Programming strategies and parametric optimization for nature-inspired structures
+17th European Congress and Exhibition on Advanced Materials and Processes (FEMS EUROMAT 2023), Frankfurt am Main, Germany
+Institute travel grant Abstract
+2023 Germany
+A. Jena*, B. B. Samal , C. S. Kumar, S. K. Varshney
+Fused filament fabrication of biodegradable polyhydroxyalkanoates: Effect of process parameters on printability and surface roughness
+FEMS EUROMAT 2023, Frankfurt am Main, Germany
+Abstract
+2023 USA
+B. B. Samal* , A. Jena, S. K. Varshney, C. S. Kumar
+Four-Dimensional (4D) printing of shape memory polymer via extrusion additive manufacturing: effect of printing process parameters and its optimization
+4D Materials Design and Additive Manufacturing Conference, Atlanta, USA
+Talk Video
+Watch
+2023 India
+B. B. Samal* , A. Jena, S. K. Varshney, C. S. Kumar
+4D printing of biodegradable and biocompatible shape memory polymer for nature-inspired structures: Experimentation & Characterization
+Polymer Technology Connect, Bhubaneswar, Odisha
+Abstract
+2022 Online
+B. B. Samal* , A. Jena, S. K. Varshney, C. S. Kumar
+4D printing: Experimental comparison between different programming strategies for FDM/FFF processed SMP
+4D Materials Design and Additive Manufacturing Conference
+Talk Video
+Watch
+2018 Magazine
+B. B. Samal , A. Jena, D. Mishra
+Indian researchers develop the world's strongest 4D-printed parts
+Manufactur3D Magazine
+International magazine
+Read
+2017 IIT Madras
+B. B. Samal , A. Jena, D. Mishra*
+Controlled Shape Changing Components by Using 4D Printing Technology
+10th International Conference on Precision, Meso, Micro and Nano Engineering (COPEN 10), IIT Madras, pp. 78–81
+First 4D printing research in India Proceedings
+Paper
+Presented In
+DE Darmstadt · Frankfurt US Atlanta KR Songdo NL Netherlands IN IIT Madras · Bhubaneswar
+
+
+==== https://www.drbijay.com/patents.html ====
+Technologies & Patents
+Working prototypes and filed Indian patents from the lab.
+Technologies Developed
+Each has reached Technology Readiness Level 4: validated in the laboratory.
+Low-cost shape-memory characterization system
+Measures shape fixity and recovery of 4D-printed parts. Benchmarked against commercial systems and used in laboratory studies behind his publications.
+TRL 4 of 9 Lab validated
+4D-printed mechanical steganography & encryption–decryption device
+A laboratory prototype developed in consultation with the Indian Army that hides and reveals information through programmed shape change. Under laboratory testing.
+TRL 4 of 9 Under testing
+Cargo Hyperloop demonstrator
+A fully functional 1:20-scale prototype integrating the core functions of the proposed compressed-air cargo transport system, for CMPDI, Ministry of Coal.
+TRL 4 of 9 Working demonstrator
+Multi-material direct ink writing (DIW) 3D printer
+Prints soft materials and biomaterials with in-situ material mixing, heating and cooling. Under laboratory testing.
+TRL 4 of 9 Under testing
+Patents
+Two Indian patent applications filed in 2026.
+Filed Indian Patent · 202611001298 Compressed Air Propelled Cargo Hyperloop System with Rail-Wheel Configuration and Compliant Suspension
+B. B. Samal , S. K. Mishra, A. S. Adarsh, R. Kumar, A. K. Ambeth, J. T. Jacob, R. Ranjan, B. Bhattacharya, N. Nath
+Filed Indian Patent · 202611014037 Development of Additively Manufactured Bouligand-Auxetic Metamaterial
+S. Sahana, B. B. Samal , A. Dwivedi, B. Bhattacharya
+
+
+==== https://www.drbijay.com/honors.html ====
+Honors & Awards
+Fellowships, medals and recognition, 2018 – 2026.
+Awards & Honours
+2026
+Sakura Science Exchange Program Fellowship
+Japan Science and Technology Agency (JST), for a research visit to Kyushu Institute of Technology, Japan.
+2024
+Fellow, Bose Science Society
+Affiliated with Vigyan Prasar, Department of Science & Technology, Government of India.
+2023
+Chartered Engineer (C.Eng)
+Institution of Engineers (India).
+2023
+IOP Trusted Reviewer
+Institute of Physics Publishing.
+2023
+International Travel Grant
+IIT Kharagpur, for attending the best conference (FEMS EUROMAT 2023, Frankfurt).
+2021
+Best Research Paper Award
+Co-authored. FRESM Conference by CMR Institute, India and Gyeongsang National University, South Korea.
+2018
+University Gold Medal
+M.Tech, Veer Surendra Sai University of Technology, Burla (CGPA 9.88 / 10).
+2018
+Chief Minister Award & Startup Grant
+Startup India Odisha Yatra, for innovation; led to start-up incubation and a NIDHI-PRAYAS grant from IIT Bhubaneswar.
+2018 – 2023
+MHRD Doctoral Fellowship
+Ministry of Human Resource Development, Government of India, for Ph.D. at IIT Kharagpur.
+Moments
+10th Convocation, VSSUT Burla
+JST Sakura Science visit, Japan (2026)
+University Gold Medal, M.Tech
+Professional memberships
+
+
+==== https://www.drbijay.com/talks.html ====
+Invited Talks
+Lectures, workshops and FDPs on 3D and 4D printing.
+Invited Talks & Lectures
+2026 Workshop
+RAMEA 2026 · North Eastern Regional Institute of Science and Technology (NERIST), Arunachal Pradesh
+3D/4D Printing: From Fundamentals to Functional Structure & Innovation Pathways
+Pre-conference workshop, Department of Mechanical Engineering · 4–5 April 2026
+2025 FDP
+Siddaganga Institute of Technology (SIT), Tumakuru
+4D Printing & Sustainability
+Faculty Development Program, Department of Mechanical Engineering · 19 August 2025
+2023 Workshop
+National Institute of Technology, Tiruchirappalli (NIT-T) · Chief Guest & invited speaker
+4D Printing Technology
+Prodigy Workshops, Department of Production Engineering · 31 March 2023
+Post
+2022 Lecture
+SASTRA Deemed University, Tamil Nadu
+4D Printing: Fundamentals and Applications
+9th Annual National Conference, Advanced Technologies & Research in Understanding Medicine · 1 May 2022
+Watch
+2022 Invited
+4D Printing and Metamaterials Conference, Netherlands
+Controlled shape changing components using 4D printing
+22 February 2022
+Watch
+Conference Talks
+Selected research presentations abroad. See all on the conferences page .
+Germany · 2024
+Highlight Lecture, MSE 2024
+4D-printed honeycomb and negative-honeycomb metamaterials that both expand and, for the first time, compress on heating with his programming process.
+Germany · 2023
+FEMS EUROMAT 2023
+The only presenter from India in the 4D printing symposium, Goethe University Frankfurt. Fully funded by IIT Kharagpur's international travel grant.
+USA · 2023
+4D Materials Design & AM
+Process parameters and optimization in extrusion 4D printing, Atlanta. Watch

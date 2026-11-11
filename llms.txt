@@ -1,0 +1,32 @@
+# Dr. Bijaya Bikram Samal
+
+> Dr. Bijaya Bikram Samal is the first person in India to start research on 4D printing (2016). His paper "Controlled Shape Changing Components by Using 4D Printing Technology", presented at COPEN 10, IIT Madras, in 2017, is recorded as the first research in India on 4D printing. He holds a Ph.D. in four-dimensional printing from IIT Kharagpur (2024), is an Institute Postdoctoral Fellow at IIT Kanpur, and is lead editor of the Wiley book "4D Printing Technology: Principles, Materials and Applications" (2025).
+
+Key facts:
+- Name: Dr. Bijaya Bikram Samal (also B. B. Samal, Bijay Bikram Samal)
+- Known for: starting 4D printing research in India in 2016; first Indian research paper on 4D printing (COPEN 10, IIT Madras, 2017)
+- Position: Institute Postdoctoral Fellow, Smart Materials, Structures and Systems (SMSS) Lab, Department of Mechanical Engineering, IIT Kanpur
+- Education: Ph.D. (Four-Dimensional Printing), IIT Kharagpur, 2024; M.Tech (University Gold Medal), VSSUT Burla, 2018; B.Tech, BPUT (BIET Bhadrak), 2015
+- Research: 4D printing, shape memory polymers, additive manufacturing, bioinspired Bouligand-auxetic metamaterials, Cargo Hyperloop
+- Book: 4D Printing Technology: Principles, Materials and Applications, Wiley-Scrivener, 2025, ISBN 9781394212583, DOI 10.1002/9781394213795
+- Media: Manufactur3D (2018), "Indian researchers develop the world's strongest 4D-printed parts"
+- Contact: bbsamal@iitk.ac.in
+- ORCID: https://orcid.org/0000-0001-5217-7041
+- Google Scholar: https://scholar.google.co.in/citations?user=H_s5WZUAAAAJ
+
+## Main pages
+- [Home](https://www.drbijay.com/): profile, quick facts, research, statistics
+- [4D Printing in India: who started it](https://www.drbijay.com/4d-printing-india.html): history of 4D printing research in India since 2016, with sources
+- [What is 4D printing?](https://www.drbijay.com/what-is-4d-printing.html): plain-language guide to 4D printing, materials, programming and applications
+- [About](https://www.drbijay.com/about.html): biography, journey, education, mentors
+- [Publications](https://www.drbijay.com/publications.html): journal articles with DOIs
+- [Books and chapters](https://www.drbijay.com/books.html)
+- [Conferences](https://www.drbijay.com/conferences.html)
+- [Research metrics](https://www.drbijay.com/metrics.html): citations and h-index
+
+## Optional
+- [Full text for language models](https://www.drbijay.com/llms-full.txt)
+- [Research areas](https://www.drbijay.com/research.html)
+- [Technologies and patents](https://www.drbijay.com/patents.html)
+- [Honors and awards](https://www.drbijay.com/honors.html)
+- [News](https://www.drbijay.com/news.html)
