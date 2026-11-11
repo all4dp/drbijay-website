@@ -603,3 +603,10 @@ main{display:block}
 .related a{display:inline-flex;align-items:center;gap:6px;padding:8px 14px;border:1px solid var(--line);background:#fff;border-radius:999px;font-family:var(--fh);font-weight:600;font-size:14px}
 .related a:hover{border-color:var(--accent)}
 .gst .foot a{text-decoration:underline}
+
+.jt.jc{padding:0;background:#e9edf2}
+.jt.jc::after{display:none}
+.jt.jc img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:50% 0}
+.jt.jc i{position:absolute;left:0;right:0;bottom:0;background:rgba(11,37,69,.86);color:#fff;text-align:center;padding:3px 0;font-size:11.5px}
+.jcard .jt.jc{transition:transform .2s ease}
+.jcard:hover .jt.jc{transform:translateY(-4px)}
