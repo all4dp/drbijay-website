@@ -29,7 +29,7 @@
 
   /* news ticker: duplicate items for a seamless loop */
   $$('.ticker .track, .aff .track').forEach(function(t){t.innerHTML+=t.innerHTML;
-    var kids=t.children,half=kids.length/2;for(var i=half;i<kids.length;i++)kids[i].setAttribute('aria-hidden','true')});
+    var kids=t.children,half=kids.length/2;for(var i=half;i<kids.length;i++){kids[i].setAttribute('aria-hidden','true');[kids[i]].concat([].slice.call(kids[i].querySelectorAll('a,button'))).forEach(function(el){if(el.matches('a,button'))el.setAttribute('tabindex','-1')})}});
 
   /* carousels */
   $$('.car').forEach(function(c){var row=$('.row',c);
