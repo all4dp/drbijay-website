@@ -212,42 +212,42 @@ Teaching
 Nov 2026 1 min read
 Tutor for TA111 at IIT Kanpur
 Taking tutorials for the TA111 course this semester at IIT Kanpur, after serving as tutor for Engineering Graphics (TA-101) earlier in 2026.
-Read more
+Read more about Tutor for TA111 at IIT Kanpur
 Fellowship
 Early 2026 1 min read
 JST Sakura Science Exchange Fellowship, Japan
 Research visit to Prof. Hiroaki Wagatsuma's lab at Kyushu Institute of Technology on multimodal human–machine interaction (neural signals, eye tracking, motion capture), plus 4D printing discussions with Prof. Fujio Tsumori, Kyushu University.
-Read more
+Read more about JST Sakura Science Exchange Fellowship, Japan
 Paper
 2026 2 min read
 Wave isolation in shells and metasurfaces (Thin-Walled Structures, Q1)
 Peridynamics modelling and experiments on wave isolation in 3D-printed shells and mechanical metasurfaces, published in Thin-Walled Structures (IF 6.6).
-Read more
+Read more about Wave isolation in shells and metasurfaces (Thin-Walled Structures, Q1)
 Paper
 2026 2 min read
 Nitinol SMA actuators with bead-on-fiber coating (Sensors & Actuators A, Q1)
 Thermal-plume and thermo-mechanical characteristics of coated Nitinol shape memory alloy actuators, published in Sensors and Actuators A: Physical.
-Read more
+Read more about Nitinol SMA actuators with bead-on-fiber coating (Sensors & Actuators A, Q1)
 Patent
 2026 1 min read
 Two Indian patents filed
 Filed: a compressed-air propelled Cargo Hyperloop system with rail-wheel configuration (202611001298) and an additively manufactured Bouligand-auxetic metamaterial (202611014037).
-Read more
+Read more about Two Indian patents filed
 Paper
 2026 2 min read
 MWCNT-coated nickel foam for EMI shielding (Nanotechnology Reviews, Q1)
 Lightweight nickel foam coated with multi-walled carbon nanotubes for electromagnetic interference shielding, with multiphysics evaluation.
-Read more
+Read more about MWCNT-coated nickel foam for EMI shielding (Nanotechnology Reviews, Q1)
 Workshop
 4–5 Apr 2026 1 min read
 3D/4D printing workshop at RAMEA 2026, NERIST
 Speaker at the two-day RAMEA 2026 pre-conference workshop "3D/4D Printing: From Fundamentals to Functional Structures & Innovation Pathways" at NERIST, Arunachal Pradesh, with speakers from IIT Kanpur, IIT Bombay and IIT Guwahati.
-Read more
+Read more about 3D/4D printing workshop at RAMEA 2026, NERIST
 Accepted
 2026 1 min read
 Chapter accepted in Elsevier's Handbook of 4D Printing
 "4D Printing of Shape Memory Polymers by Material Extrusion" accepted for the Elsevier Handbook of 4D Printing of Shape Memory Polymers.
-Read more
+Read more about Chapter accepted in Elsevier's Handbook of 4D Printing
 View all news
 Books & Chapters
 Lead Editor · 2025
@@ -379,7 +379,7 @@ Mechanical metamaterials that absorb impact or isolate vibration, including auxe
 Photonics, sensors and smart textiles
 Security devices: Dr. Samal's lab has built a 4D-printed mechanical steganography device that hides and reveals information
 4D printing vs 3D printing
-3D printing 4D printing
+Feature 3D printing 4D printing
 Shape after printing Fixed Changes over time
 Materials Any printable material Stimulus-responsive (smart) materials
 Extra step Post-processing Programming and a trigger
@@ -498,6 +498,20 @@ Sustainability
 Biodegradable polymers for AM
 Printability, dimensional accuracy and anaerobic biodegradability of PHA and PHB filaments and printed parts.
 Papers
+Key Findings
+What the published work shows, in brief. Each links to the paper.
+Programming decides how a 4D-printed part behaves
+Comparing two thermo-mechanical programming methods on FDM-printed shape memory polymer showed clear differences in shape fixity, recovery and material properties, supported by thermal and structural characterization. Smart Materials and Structures, 2023
+Print settings are part of the "program"
+Infill density and bed temperature in FDM change the shape memory response under different programming conditions, so they can be tuned to control how a part recovers. Work on build orientation is under review. J. Mech. Sci. Technol., 2024
+Lattices that shrink when heated
+Thermo-mechanically programmed honeycomb and negative-honeycomb (auxetic) structures can be made to expand or to compress on heating; heat-induced compression was demonstrated using the group's programming process (Highlight Lecture, MSE 2024, Darmstadt). Conference record
+Truly biodegradable 3D printing
+Unlike PLA, which does not break down under typical landfill or anaerobic digestion conditions, PHB filament and its 3D-printed sheets were shown to biodegrade anaerobically using the biochemical methane potential test. Science of the Total Environment, 2025
+Smoother metal AM parts with laser polishing
+A design-of-experiments approach identified laser polishing settings that reduce the surface roughness of cobalt-chrome parts made by laser powder bed fusion. Int. J. Adv. Manuf. Technol., 2024
+3D-printed metasurfaces that block vibration
+Peridynamics modelling and experiments show how 3D-printed shells and mechanical metasurfaces isolate elastic waves. Thin-Walled Structures, 2026
 Funded Projects
 2025 – present · Team Leader
 Cargo Hyperloop
