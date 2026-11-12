@@ -52,7 +52,7 @@ Dr. Bijaya Bikram Samal is an Institute Postdoctoral Fellow in the Smart Materia
 He began working on 4D printing in 2016 as an M.Tech student at VSSUT Burla. His 2017 paper at COPEN 10, IIT Madras, is recorded as the first research on 4D printing in India . He went on to complete a Ph.D. on four-dimensional printing at IIT Kharagpur under Prof. C. S. Kumar and Prof. S. K. Varshney, and to edit the Wiley book 4D Printing Technology with them. At IIT Kanpur he works on bioinspired Bouligand-auxetic metamaterials and the Cargo Hyperloop project, and enjoys teaching and mentoring students along the way.
 2016 4D printing research, first in India
 31 Publications
-153 Citations
+154 Citations
 8 h-index
 Explore research About Dr. Samal
 Technical Expertise
@@ -269,7 +269,7 @@ Counts from the CV (October 2026). Citation numbers refresh automatically from G
 10 Students mentored
 Citation metrics by database
 Metric Google Scholar Scopus OpenAlex · live
-Citations 153 106 –
+Citations 154 106 –
 h-index 8 6 –
 i10-index 6 – –
 Auto-updating Scholar as of 9 Nov 2026 · Details
@@ -519,7 +519,7 @@ Journal articles in Elsevier, Springer, IOP and De Gruyter journals, with DOIs.
 31 Publications in total
 10 Journal articles
 6 Q1 journal articles
-153 Citations (Google Scholar)
+154 Citations (Google Scholar)
 Journal Articles
 * corresponding author. Dr. Samal's name is underlined.
 All 2026 2025 2024 2023 2021
