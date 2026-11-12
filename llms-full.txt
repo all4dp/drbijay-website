@@ -44,7 +44,7 @@ Dr. Bijaya Bikram Samal
 Institute Postdoctoral Fellow at IIT Kanpur, working on 4D printing, smart materials and metamaterials since 2016.
 4D printing in India Publications
 Latest
-Teaching Tutor for TA111 at IIT Kanpur Fellowship JST Sakura Science Fellowship for a research visit to Kyushu Institute of Technology, Japan Paper Paper in Thin-Walled Structures (Q1, IF 6.6) Paper Paper in Sensors and Actuators A (Q1, IF 5.1) Patent Two Indian patents filed: Cargo Hyperloop & Bouligand-auxetic metamaterial Paper Paper in Nanotechnology Reviews (Q1, IF 6.1) Workshop RAMEA 2026 : 3D/4D printing workshop at NERIST, Arunachal Pradesh Accepted Chapter accepted in Elsevier's Handbook of 4D Printing of Shape Memory Polymers Event Symposium organizer, MSE 2026 , TU Darmstadt, Germany Paper Paper in National Academy Science Letters : sustainable 3D printing of PHA Appointment Now Institute Postdoctoral Fellow , IIT Kanpur Book Lead editor: 4D Printing Technology (Wiley, 2025)
+Teaching Tutor for TA111 at IIT Kanpur Fellowship JST Sakura Science Fellowship for a research visit to Kyushu Institute of Technology, Japan Paper Paper in Thin-Walled Structures (Q1, IF 6.6) Paper Paper in Sensors and Actuators A (Q1, IF 5.1) Project Cargo Hyperloop (CABCH) proof of concept demonstrated at IIT Kanpur; project film released Patent Two Indian patents filed: Cargo Hyperloop & Bouligand-auxetic metamaterial Paper Paper in Nanotechnology Reviews (Q1, IF 6.1) Workshop RAMEA 2026 : 3D/4D printing workshop at NERIST, Arunachal Pradesh Accepted Chapter accepted in Elsevier's Handbook of 4D Printing of Shape Memory Polymers Event Symposium organizer, MSE 2026 , TU Darmstadt, Germany Paper Paper in National Academy Science Letters : sustainable 3D printing of PHA Appointment Now Institute Postdoctoral Fellow , IIT Kanpur Book Lead editor: 4D Printing Technology (Wiley, 2025)
 All news
 Dr. Bijaya Bikram Samal
 4D Printing Institute Postdoctoral Fellow IIT Kanpur Wiley Book Editor
@@ -165,23 +165,14 @@ All publications Research metrics
 2 Patents filed
 4 Technologies (TRL 4)
 Published in
-Elsevier S&A A
 Sensors and Actuators A: Physical
-Elsevier TWS
 Thin-Walled Structures
-Elsevier STOTEN
 Science of the Total Environment
-IOP SMS
 Smart Materials and Structures
-De Gruyter NTREV
 Nanotechnology Reviews
-Springer IJAMT
 Int. J. of Advanced Manufacturing Technology
-Springer JMST
 J. of Mechanical Science and Technology
-Springer NASL
 National Academy Science Letters
-Elsevier MTP
 Materials Today: Proceedings
 International Collaboration & Engagements
 Research visits, conference leadership and talks across Asia, Europe and North America.
@@ -228,6 +219,11 @@ Paper
 Nitinol SMA actuators with bead-on-fiber coating (Sensors & Actuators A, Q1)
 Thermal-plume and thermo-mechanical characteristics of coated Nitinol shape memory alloy actuators, published in Sensors and Actuators A: Physical.
 Read more about Nitinol SMA actuators with bead-on-fiber coating (Sensors & Actuators A, Q1)
+Project
+Nov 2026 2 min read
+Cargo Hyperloop prototype demonstrated at IIT Kanpur
+The Compressed-Air Based Cargo Hyperloop (CABCH) proof of concept, built at the SMSS Lab for CMPDI, Ministry of Coal, with Dr. Samal as team leader. Watch the project film.
+Read more about Cargo Hyperloop prototype demonstrated at IIT Kanpur
 Patent
 2026 1 min read
 Two Indian patents filed
@@ -243,11 +239,6 @@ Workshop
 3D/4D printing workshop at RAMEA 2026, NERIST
 Speaker at the two-day RAMEA 2026 pre-conference workshop "3D/4D Printing: From Fundamentals to Functional Structures & Innovation Pathways" at NERIST, Arunachal Pradesh, with speakers from IIT Kanpur, IIT Bombay and IIT Guwahati.
 Read more about 3D/4D printing workshop at RAMEA 2026, NERIST
-Accepted
-2026 1 min read
-Chapter accepted in Elsevier's Handbook of 4D Printing
-"4D Printing of Shape Memory Polymers by Material Extrusion" accepted for the Elsevier Handbook of 4D Printing of Shape Memory Polymers.
-Read more about Chapter accepted in Elsevier's Handbook of 4D Printing
 View all news
 Books & Chapters
 Lead Editor · 2025
@@ -515,7 +506,7 @@ Peridynamics modelling and experiments show how 3D-printed shells and mechanical
 Funded Projects
 2025 – present · Team Leader
 Cargo Hyperloop
-Nationally funded by CMPDI, Ministry of Coal. Leads a multidisciplinary team designing a high-speed, air-driven cargo hyperloop; built a fully functional 1:20-scale demonstrator and filed an Indian patent on the rail-wheel propulsion system.
+Nationally funded by CMPDI, Ministry of Coal. Leads a multidisciplinary team designing a high-speed, air-driven cargo hyperloop; built a fully functional 1:20-scale demonstrator and filed an Indian patent on the rail-wheel propulsion system. Project page and film
 2025 – present · IIT Kanpur
 4D-printed Bouligand-auxetic metamaterials
 Bioinspired, additively manufactured metastructures with orientation-dependent multifunctional performance. Indian patent filed (202611014037).
@@ -548,61 +539,61 @@ Journal articles in Elsevier, Springer, IOP and De Gruyter journals, with DOIs.
 Journal Articles
 * corresponding author. Dr. Samal's name is underlined.
 All 2026 2025 2024 2023 2021
-Elsevier S&A A 2026
+2026
 R. Kumar, B. K. Mishra, P. K. Panigrahi, B. B. Samal , A. Dwivedi, B. Bhattacharya
 Thermal-Plume and Thermo-Mechanical Characteristics of Nitinol SMA Actuators with Bead-on-Fiber Coating
 Sensors and Actuators A: Physical , Elsevier, Vol. 412, 118654
 Q1 IF 5.1 SCIE
 DOI
-Elsevier TWS 2026
+2026
 N. Choudhary, T. Gupta, A. Dwivedi, B. B. Samal , P. Roy, R. Bhartiya, B. Bhattacharya
 Peridynamics modeling and experimental investigation of wave isolation in shells and mechanical metasurfaces
 Thin-Walled Structures , Elsevier, Vol. 225, Part B, 114850
 Q1 IF 6.6 SCI
 DOI
-De Gruyter NTREV 2026
+2026
 S. Medabalimi, P. Kumar, R. Cep, B. B. Samal , A. Kumar
 Lightweight Nickel Foam Coated with Multi-Walled Carbon Nanotubes for Enhanced Electromagnetic Interference Shielding: Experimental and Multiphysics Evaluation
 Nanotechnology Reviews , Walter de Gruyter, Vol. 15, No. 1, 20250310
 Q1 IF 6.1 SCI
 DOI
-Springer NASL 2026
+2026
 A. Jena, B. B. Samal* , C. S. Kumar, S. K. Varshney
 Sustainable 3D Printing of Polyhydroxyalkanoates: Material Characterization, Printability, and Parametric Optimization for Enhanced Dimensional Accuracy
 National Academy Science Letters , Springer Nature
 Q3 IF 1.1 Corresponding author
 DOI
-Elsevier STOTEN 2025
+2025
 A. Jena, A. P. Thomas, B. B. Samal* , B. K. Dubey, C. S. Kumar, S. K. Varshney
 Assessing the anaerobic biodegradability of PHB filament and its 3D printed sheets through biochemical methane potential (BMP) test
 Science of The Total Environment , Elsevier, Vol. 1008, 180962
 Q1 IF 8.0 Corresponding author
 DOI
-Springer JMST 2024
+2024
 B. B. Samal* , S. K. Varshney, C. S. Kumar
 Four-dimensional (4D) Printing through FDM: Effect of infill density and bed temperature on shape memory properties in different thermo-mechanical programming conditions
 Journal of Mechanical Science and Technology , Springer, Vol. 38, Issue 7, pp. 4313–4319
 Q2 IF 1.7 4D printing First author
 DOI
-Springer IJAMT 2024
+2024
 A. Kumar, R. Harikrishnan, B. B. Samal , C. S. Kumar, A. K. Nath
 Laser polishing of cobalt chrome alloy fabricated by laser powder bed fusion process: Design of experiment-based approach for reducing surface roughness
 International Journal of Advanced Manufacturing Technology , Springer, Vol. 134, pp. 1245–1264
 Q1 IF 3.3
 DOI
-Elsevier MTP 2024
+2024
 B. B. Samal* , A. Jena, S. K. Varshney, C. S. Kumar
 FDM 4D printing: A low-cost approach of shape programming and assessing the shape memory properties using angle measurement methods in hot water actuation testing apparatus
 Materials Today: Proceedings , Elsevier, Vol. 101, pp. 7–14
 Scopus 4D printing First author
 DOI
-IOP SMS 2023
+2023
 B. B. Samal* , A. Jena, S. K. Varshney, C. S. Kumar
 4D Printing of Shape Memory Polymers: A Comparative Study of Programming Methodologies on Various Material Properties
 Smart Materials and Structures , IOP Publishing, Vol. 32, No. 7, 074003
 Q1 IF 3.8 4D printing First author
 DOI
-Elsevier MTP 2021
+2021
 A. Jena, B. B. Samal , C. S. Kumar, S. K. Varshney
 Analysis of electro-thermo-mechanical behavior of thin film Ni50Ti50 and Ni40Ti50Cu10 shape memory alloys for application in thermal actuators
 Materials Today: Proceedings , Vol. 47, pp. 4578–4583
@@ -615,7 +606,7 @@ Bioinspired Bouligand-Auxetic Metastructures with Orientation-Dependent Multifun
 SSRN Preprint, 15 March 2026
 Preprint
 DOI
-IOP SMS 2026
+2026
 B. B. Samal* , A. Jena, S. K. Varshney, C. S. Kumar
 Optimization of shape memory thermal parameters in 4D printed parts: Effects of build orientation on mechanical and shape memory characteristics
 Smart Materials and Structures , IOP Publishing, Manuscript SMS-120068.R2 (minor revision submitted)
@@ -643,32 +634,32 @@ B. B. Samal* , A. Jena, S. K. Varshney, C. S. Kumar, B. Bhattacharya
 4D Printing of Shape Memory Polymers by Material Extrusion
 Handbook of 4D Printing of Shape Memory Polymers , Elsevier (accepted)
 Accepted
-Wiley WILEY 2025
+2025
 B. B. Samal* , A. Kumar, A. Jena, D. Mishra, S. K. Varshney, A. K. Nath, C. S. Kumar
 Importance of Additive Manufacturing in the era of Industry 4.0
 4D Printing Technology: Principles, Materials and Application , Wiley, pp. 1–27
 DOI
-Wiley WILEY 2025
+2025
 A. Kumar, B. B. Samal* , A. K. Nath, S. K. Varshney, C. S. Kumar
 Additive Manufacturing Processing and Techniques: Focusing on Laser Powder Bed Fusion (L-PBF) and Its Various Post Processing Technologies
 4D Printing Technology: Principles, Materials and Application , Wiley, pp. 29–67
 DOI
-Wiley WILEY 2025
+2025
 M. A. F. Aramayo, M. Rehan, B. B. Samal* , C. S. Kumar, S. K. Varshney
 The rise of Smart Materials: Recent developments
 4D Printing Technology: Principles, Materials and Application , Wiley, pp. 69–86
 DOI
-Wiley WILEY 2025
+2025
 B. B. Samal* , D. Mishra, M. Nafea, A. Jena, S. K. Varshney, C. S. Kumar
 From 3D printing to 4D printing: Adding time dimension
 4D Printing Technology: Principles, Materials and Application , Wiley, pp. 93–123
 DOI
-Wiley WILEY 2025
+2025
 B. B. Samal* , B. C. G. Marupalli, P. Talukdar, A. Jena, R. R. Korrayi, T. Adhikary, S. K. Varshney, C. S. Kumar
 Characterization techniques for 4D printed parts
 4D Printing Technology: Principles, Materials and Application , Wiley, pp. 245–279
 DOI
-Wiley WILEY 2025
+2025
 B. B. Samal* , M. Pradhan, S. Sharma, S. K. Varshney
 4D printing applications in Photonics
 4D Printing Technology: Principles, Materials and Application , Wiley, pp. 281–309
@@ -762,7 +753,7 @@ TRL 4 of 9 Lab validated
 A laboratory prototype developed in consultation with the Indian Army that hides and reveals information through programmed shape change. Under laboratory testing.
 TRL 4 of 9 Under testing
 Cargo Hyperloop demonstrator
-A fully functional 1:20-scale prototype integrating the core functions of the proposed compressed-air cargo transport system, for CMPDI, Ministry of Coal.
+A fully functional 1:20-scale prototype integrating the core functions of the proposed compressed-air cargo transport system, for CMPDI, Ministry of Coal. Watch the film
 TRL 4 of 9 Working demonstrator
 Multi-material direct ink writing (DIW) 3D printer
 Prints soft materials and biomaterials with in-situ material mixing, heating and cooling. Under laboratory testing.
