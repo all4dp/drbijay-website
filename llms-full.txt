@@ -112,17 +112,17 @@ Biochemical methane potential testing of printed parts
 Multi-material direct ink writing printer with in-situ mixing (TRL 4)
 Laser polishing of LPBF cobalt-chrome parts
 Institutions & Affiliations
-IITK IIT Kanpur Institute Postdoctoral Fellow
-IIT KGP IIT Kharagpur Ph.D., 4D Printing
-VSSUT VSSUT Burla M.Tech, Gold Medal
-BPUT BPUT · BIET Bhadrak B.Tech, Mechanical
-WILEY Wiley-Scrivener Series & Lead Editor
+IIT Kanpur Institute Postdoctoral Fellow
+IIT Kharagpur Ph.D., 4D Printing
+VSSUT Burla M.Tech, Gold Medal
+BPUT · BIET Bhadrak B.Tech, Mechanical
+Wiley-Scrivener Series & Lead Editor
 JST JST Japan Sakura Science Fellow
 BSS Bose Science Society Fellow
-IEI Institution of Engineers Chartered Engineer
-IOP Institute of Physics Trusted Reviewer
-ISTE ISTE Life Member
-CMPDI CMPDI, Ministry of Coal Cargo Hyperloop
+Institution of Engineers Chartered Engineer
+Institute of Physics Trusted Reviewer
+ISTE Life Member
+CMPDI, Ministry of Coal Cargo Hyperloop
 Area of Expertise
 Additive Manufacturing
 Fused filament fabrication (FDM/FFF)
@@ -456,6 +456,9 @@ Department of Mechanical Engineering
 Ph.D. supervisor · IIT Kharagpur
 Prof. S. K. Varshney
 Department of Electronics & Electrical Communication Engineering
+Mentor · United Kingdom
+Dr. Anil Bastola
+University of Liverpool, UK
 Research Profiles
 Google Scholar Citations, h-index, i10 iD ORCID 0000-0001-5217-7041 Sc Scopus Author ID 57310668700 W Web of Science ResearcherID ABF-0191-2022 RG ResearchGate Papers & full texts in LinkedIn Professional profile X X (Twitter) @bijaybikrmsamal f Facebook dr.bijayabikramsamal IITK IIT Kanpur SMSS Lab profile
 
@@ -503,25 +506,6 @@ Smoother metal AM parts with laser polishing
 A design-of-experiments approach identified laser polishing settings that reduce the surface roughness of cobalt-chrome parts made by laser powder bed fusion. Int. J. Adv. Manuf. Technol., 2024
 3D-printed metasurfaces that block vibration
 Peridynamics modelling and experiments show how 3D-printed shells and mechanical metasurfaces isolate elastic waves. Thin-Walled Structures, 2026
-Funded Projects
-2025 – present · Team Leader
-Cargo Hyperloop
-Nationally funded by CMPDI, Ministry of Coal. Leads a multidisciplinary team designing a high-speed, air-driven cargo hyperloop; built a fully functional 1:20-scale demonstrator and filed an Indian patent on the rail-wheel propulsion system. Project page and film
-2025 – present · IIT Kanpur
-4D-printed Bouligand-auxetic metamaterials
-Bioinspired, additively manufactured metastructures with orientation-dependent multifunctional performance. Indian patent filed (202611014037).
-2024 – 2025 · IIT Kanpur
-Wave isolation in meta-structured shells
-Experimental work on 3D-printed shells and mechanical metasurfaces, with peridynamics modelling, published in Thin-Walled Structures (2026).
-With the Indian Army
-4D-printed mechanical steganography
-An encryption–decryption device that hides information in a 4D-printed structure and reveals it on stimulus; laboratory prototype at TRL 4.
-2018 – 2024 · IIT Kharagpur
-Ph.D. research on 4D printing
-Shape programming, material characterization and parametric optimization of 4D-printed SMPs, supported by the MHRD Doctoral Fellowship.
-2016 – 2018 · VSSUT Burla
-Controlled shape-changing components
-The M.Tech project that started 4D printing research in India, presented at COPEN 10, IIT Madras (2017).
 Research in Numbers
 31 Publications
 2 Patents filed
