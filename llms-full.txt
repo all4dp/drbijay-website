@@ -537,62 +537,62 @@ All 2026 2025 2024 2023 2021
 R. Kumar, B. K. Mishra, P. K. Panigrahi, B. B. Samal , A. Dwivedi, B. Bhattacharya
 Thermal-Plume and Thermo-Mechanical Characteristics of Nitinol SMA Actuators with Bead-on-Fiber Coating
 Sensors and Actuators A: Physical , Elsevier, Vol. 412, 118654
-Q1 (SCImago 2025) JIF 5.1 SCIE
-DOI
+SJR Q1 (2025) JIF 5.1 (2025) SCIE
+DOI PDF
 2026
 N. Choudhary, T. Gupta, A. Dwivedi, B. B. Samal , P. Roy, R. Bhartiya, B. Bhattacharya
 Peridynamics modeling and experimental investigation of wave isolation in shells and mechanical metasurfaces
 Thin-Walled Structures , Elsevier, Vol. 225, Part B, 114850
-Q1 (SCImago 2025) JIF 8.3 SCIE
-DOI
+SJR Q1 (2025) JIF 8.3 (2025) SCIE
+DOI PDF
 2026
 S. Medabalimi, P. Kumar, R. Cep, B. B. Samal , A. Kumar
 Lightweight Nickel Foam Coated with Multi-Walled Carbon Nanotubes for Enhanced Electromagnetic Interference Shielding: Experimental and Multiphysics Evaluation
 Nanotechnology Reviews , Walter de Gruyter, Vol. 15, No. 1, 20250310
-Q1 (SCImago 2025) JIF 5.6 SCIE
-DOI
+SJR Q1 (2025) JIF 5.6 (2025) SCIE
+DOI PDF
 2026
 A. Jena, B. B. Samal* , C. S. Kumar, S. K. Varshney
 Sustainable 3D Printing of Polyhydroxyalkanoates: Material Characterization, Printability, and Parametric Optimization for Enhanced Dimensional Accuracy
 National Academy Science Letters , Springer Nature, published online 21 August 2026
-Q3 (SCImago 2025) JIF 1.1 SCIE Corresponding author
-DOI
+SJR Q3 (2025) JIF 1.1 (2025) SCIE Corresponding author
+DOI PDF
 2025
 A. Jena, A. P. Thomas, B. B. Samal* , B. K. Dubey, C. S. Kumar, S. K. Varshney
 Assessing the anaerobic biodegradability of PHB filament and its 3D printed sheets through biochemical methane potential (BMP) test
 Science of The Total Environment , Elsevier, Vol. 1008, 180962
-Q1 (SCImago 2025) JIF 8.0 SCIE Corresponding author
-DOI
+SJR Q1 (2025) JIF 8.0 (2024) SCI Corresponding author
+DOI PDF
 2024
 B. B. Samal* , S. K. Varshney, C. S. Kumar
 Four-dimensional (4D) Printing through FDM: Effect of infill density and bed temperature on shape memory properties in different thermo-mechanical programming conditions
 Journal of Mechanical Science and Technology , Springer, Vol. 38, Issue 8, pp. 4313–4319
-Q2 (SCImago 2024) JIF 1.7 SCIE 4D printing First author
-DOI
+SJR Q2 (2025) JIF 2.2 (2025) SCIE 4D printing First author
+DOI PDF
 2024
 A. Kumar, R. Harikrishnan, B. B. Samal , C. S. Kumar, A. K. Nath
 Laser polishing of cobalt chrome alloy fabricated by laser powder bed fusion process: Design of experiment-based approach for reducing surface roughness
 International Journal of Advanced Manufacturing Technology , Springer, Vol. 134, pp. 1245–1264
-Q1 (SCImago 2024) JIF 3.1 SCIE
-DOI
+SJR Q1 (2024) JIF 3.1 (2024) SCIE
+DOI PDF
 2024
 B. B. Samal* , A. Jena, S. K. Varshney, C. S. Kumar
 FDM 4D printing: A low-cost approach of shape programming and assessing the shape memory properties using angle measurement methods in hot water actuation testing apparatus
 Materials Today: Proceedings , Elsevier, Vol. 101, pp. 7–14
-Scopus SJR 0.585 4D printing First author
-DOI
+Scopus SJR 0.585 (2024) 4D printing First author
+DOI PDF
 2023
 B. B. Samal* , A. Jena, S. K. Varshney, C. S. Kumar
 4D Printing of Shape Memory Polymers: A Comparative Study of Programming Methodologies on Various Material Properties
 Smart Materials and Structures , IOP Publishing, Vol. 32, No. 7, 074003
-Q1 (SCImago 2023) JIF 3.7 SCIE 4D printing First author
-DOI
+SJR Q1 (2023) JIF 3.7 (2023) SCIE 4D printing First author
+DOI PDF
 2021
 A. Jena, B. B. Samal , C. S. Kumar, S. K. Varshney
 Analysis of electro-thermo-mechanical behavior of thin film Ni50Ti50 and Ni40Ti50Cu10 shape memory alloys for application in thermal actuators
 Materials Today: Proceedings , Elsevier, Vol. 47, Part 14, pp. 4578–4583
-Scopus SJR 0.355
-DOI
+Scopus SJR 0.355 (2021)
+DOI PDF
 Preprints & Under Review
 SSRN SSRN 2026
 S. Sahana, B. B. Samal , A. Dwivedi, B. Bhattacharya
