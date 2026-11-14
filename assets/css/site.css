@@ -403,7 +403,9 @@ main{display:block}
 .tg.red{background:var(--accent-soft);color:var(--accent)}
 .tg.gold{background:var(--gold-soft);color:#7A5A12}
 .pitem .act{display:flex;flex-direction:column;gap:8px;align-items:flex-end}
-@media (max-width:760px){.pitem{grid-template-columns:1fr;gap:10px}.pitem .yr{width:72px}.pitem .act{align-items:flex-start;flex-direction:row}}
+.pitem .act.has-pdf{flex-direction:column;align-items:stretch;justify-self:end}
+.pitem .act.has-pdf .btn{justify-content:center}
+@media (max-width:760px){.pitem{grid-template-columns:1fr;gap:10px}.pitem .yr{width:72px}.pitem .act{align-items:flex-start;flex-direction:row}.pitem .act.has-pdf{justify-self:start;flex-direction:row;align-items:center}}
 
 .intro2{display:grid;grid-template-columns:auto minmax(0,1fr);gap:48px;align-items:center}
 .circle{width:clamp(200px,22vw,300px);aspect-ratio:1;border-radius:50%;padding:10px;background:linear-gradient(135deg,var(--gold),#E8D29B);box-shadow:var(--shadow)}
