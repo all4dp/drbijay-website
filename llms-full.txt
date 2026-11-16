@@ -541,10 +541,10 @@ Sensors and Actuators A: Physical , Elsevier, Vol. 412, 118654
 SJR Q1 (2025) JIF 5.1 (2025) SCIE
 DOI PDF Video
 2026
-N. Choudhary, T. Gupta, A. Dwivedi, B. B. Samal , P. Roy, R. Bhartiya, B. Bhattacharya
+N. Choudhary, T. Gupta, A. Dwivedi, B. B. Samal* , P. Roy, R. Bhartiya, B. Bhattacharya
 Peridynamics modeling and experimental investigation of wave isolation in shells and mechanical metasurfaces
 Thin-Walled Structures , Elsevier, Vol. 225, Part B, 114850
-SJR Q1 (2025) JIF 8.3 (2025) SCIE
+SJR Q1 (2025) JIF 8.3 (2025) SCIE Corresponding author
 DOI PDF Video
 2026
 S. Medabalimi, P. Kumar, R. Cep, B. B. Samal , A. Kumar
