@@ -270,7 +270,7 @@ Counts from the CV (October 2026). Citation numbers refresh automatically from G
 10 Students mentored
 Citation metrics by database
 Metric Google Scholar Scopus OpenAlex · live
-Citations 154 106 –
+Citations 154 110 –
 h-index 8 6 –
 i10-index 6 – –
 Auto-updating Scholar as of 9 Nov 2026 · Details
